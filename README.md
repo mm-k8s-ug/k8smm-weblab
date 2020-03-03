@@ -1,4 +1,6 @@
-# Pod test 
+# K8smm Pod for lab
+
+![Build](https://github.com/mm-k8s-ug/k8smm-weblab/workflows/Docker/badge.svg?branch=master)
 
 Testing container for pod. writing with golang and lightweghit container.
 Need two Env -
