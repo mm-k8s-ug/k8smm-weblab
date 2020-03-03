@@ -1,6 +1,6 @@
 # K8smm Pod for lab
 
-![Docker](https://github.com/mm-k8s-ug/k8smm-weblab/workflows/Docker/badge.svg?branch=master)
+[![Docker](https://github.com/mm-k8s-ug/k8smm-weblab/workflows/Docker/badge.svg)](https://github.com/mm-k8s-ug/k8smm-weblab/actions?query=workflow%3ADocker)
 
 Testing container for pod. writing with golang and lightweghit container.
 Need two Env -
